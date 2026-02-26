@@ -1,7 +1,7 @@
 # 🧠 MEMORY.md - Long-Term Memories
 
 ## Dart AI (app.dartai.com)
-- **API Key:** `dsa_9cb1d2b107fbad36c467636b2131bf519d59a853cb9723e4a9f198921416ce76`
+- **API Key:** `dsa_47147322712870568412e8b34a23e2f49c0744ec22e041d92d2515e2c39d7288` (use **Bearer** prefix)
 - **Docs:** https://app.dartai.com/api/v0/public/docs/
 - **Purpose:** Project management integration. Interact with tasks, projects, etc.
 
